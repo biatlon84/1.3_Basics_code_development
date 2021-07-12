@@ -1,5 +1,5 @@
 
-package com.epam.training.sum;
+package com.epam.training.sum.bin.com.epam.training.sum;
 
 import java.math.BigInteger;
 
